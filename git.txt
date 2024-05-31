@@ -15,4 +15,11 @@
 6- GIT COMMIT : embalar el paquete de todo el archivo para enviarlo.
   -m : comentar o describir la tarea realizada.
   
+7- Si tocamos algo, volvemos a iniciar, menos el numero 1.
+
+8- GIT STATUS: consulta el estado de GIT.
+
+9- GIT No guarda directorios vacios por default.
+
+10- GIT REMOTE -v: 
 
